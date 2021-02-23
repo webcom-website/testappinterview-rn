@@ -23,65 +23,34 @@ Un vistazo rápido a los archivos y directorios de nivel superior en este proyec
 
 
 
-# 🚀 Comenzando 
+## 📋 Requirements
+
+React Native apps may target iOS 11.0 and Android 5.0 (API 21) or newer. You may use Windows, macOS, or Linux as your development operating system, though building and running iOS apps is limited to macOS. 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 📖 Documentation
+
+The full documentation for React Native can be found on our [website][docs].
+
+The React Native documentation discusses components, APIs, and topics that are specific to React Native. For further documentation on the React API that is shared between React Native and React DOM, refer to the [React documentation][r-docs].
+
+The source for the React Native documentation and website is hosted on a separate repo, [**@facebook/react-native-website**][repo-website].
+
+[docs]: https://reactnative.dev/docs/getting-started
+[r-docs]: https://reactjs.org/docs/getting-started.html
+[repo-website]: https://github.com/facebook/react-native-website
 
 
-** Regístrate para una cuenta de [OpenWeather](https://openweathermap.org/) account.**
+## 🚀 Upgrading
 
-## Configuración básica 
+Upgrading to new versions of React Native may give you access to more APIs, views, developer tools, and other goodies. See the [Upgrading Guide][u] for instructions.
 
-- Clonar la rama principal en el repositorio 
+React Native releases are discussed in the React Native Community, [**@react-native-community/react-native-releases**][repo-releases].
 
-- Instale los paquetes usando el comando `yarn install`
+[u]: https://reactnative.dev/docs/upgrading
+[repo-releases]: https://github.com/react-native-community/react-native-releases
 
-## **Environment File**
-
-- Cree un archivo `.env` en el directorio raíz del proyecto. Agregue las siguientes propiedades en él:
-
-REACT_APP_APIKEY="TU_APP_KEY"
-
--49871a2839d50e01b0b2c98e386f6aee tambien puede usar la que esta en el archivo si lo desea.
-
-
-## Scripts 
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## ¿Qué hay dentro?
 
