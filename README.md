@@ -9,7 +9,7 @@
 Un vistazo rápido a los archivos y directorios de nivel superior en este proyecto de la aplicación react-weather-app.
 
 ```
-├── public
+
 ├── src
 	├── assets
 	├── components
