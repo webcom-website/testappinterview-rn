@@ -89,4 +89,4 @@ React Native releases are discussed in the React Native Community, [**@react-nat
 
 Gracias por el crecimiento que me han otorgado al enfretar este desafío de diseño frontEnd con un mixed backEnd, no todo siempre sale, pero si todo siempre me gusta investigar!
 
-Saludos equipo y les deseo un ecelente año 2021!
+Saludos equipo y les deseo un excelente año 2021!
