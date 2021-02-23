@@ -1,6 +1,8 @@
 # Test  App Interview
 
-![Modelo Web](/src/wireframe/screenStart.png)
+![Screen Start](/src/wireframe/screenStart.png)
+
+![Screen Forecast](/src/wireframe/screenForecast.png)
 
 ## 🧐 Arquitectura 
 
